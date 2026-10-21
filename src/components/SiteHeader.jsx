@@ -2,7 +2,7 @@
 
 function Header() {
     return (
-        <header className="w-full fixed flex justify-between place-items-center z-50 border-b border-b-[#F3F4F6] px-12 py-6">
+        <header className="w-full fixed flex justify-between place-items-center z-50 border-b border-b-[#F3F4F6] backdrop-blur-3xl px-12 py-6">
             <div className="flex place-items-center">
                 <img src="/logo.png" alt="Logo icon" />
                 <h1 className="text-3xl font-black">Right<span className="text-[#16A34A]">PICK</span></h1>
