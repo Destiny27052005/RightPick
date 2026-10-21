@@ -8,7 +8,7 @@ function Footer() {
 
                 {/* Copyright Text */}
                 <p className="text-gray-500 text-xs md:text-sm tracking-wide text-center">
-                    Copyright © 2026 Right Pick. All rights reserved.
+                    Copyright © {new Date().getFullYear()} Right Pick. All rights reserved.
                 </p>
 
             </div>
