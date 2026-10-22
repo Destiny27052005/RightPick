@@ -44,7 +44,7 @@ function Index() {
     return (
         <main className="px-4 sm:px-8 lg:px-12 overflow-x-hidden">
             {/* Hero section */}
-            <section id="home" className="min-h-screen flex flex-col lg:flex-row justify-center items-center gap-12 lg:gap-16 py-18">
+            <section id="home" className="min-h-screen flex flex-col lg:flex-row justify-center items-center gap-12 lg:gap-16 py-20">
                 <div className="space-y-6 lg:space-y-8 max-w-2xl">
                     <div className="w-fit flex items-center gap-2 text-[#166534] bg-[#F0FDF4] border border-[#e5e7eb] rounded-2xl px-3 py-1 text-xs sm:text-sm font-medium">
                         <span className="w-2 h-2 bg-[#22C55E] rounded-full shrink-0"></span> PRECISION SOLAR ENERGY PLATFORM NIGERIA
